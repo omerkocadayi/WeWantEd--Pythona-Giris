@@ -1,3 +1,5 @@
+#listelere giris
+
 meyveler = ["elma", "muz", 5, 5.8, True]
 print (meyveler)
 
