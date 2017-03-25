@@ -1,13 +1,13 @@
 liste = [1, 2 , 5, 3, 6, 4]
-print (sorted(liste))                             
+print (sorted(liste))                           # listenin aslı ile oynamadan sıralı sekilde yazdırır                          
 print ("\n")
 
-print (liste)
+print (liste)                                   # burada listenin aslını görecegiz
 print("\n")
 
-liste.sort()
+liste.sort()                                     # listenin aslını degistirerek siralama yapar
 print (liste)
 print ("\n")
 
-liste.reverse()
+liste.reverse()                                   # sıralanmıs listeyi ters cevirir
 print (liste)
