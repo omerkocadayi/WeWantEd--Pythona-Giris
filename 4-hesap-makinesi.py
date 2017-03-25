@@ -1,3 +1,5 @@
+# while ve if ile hesap makinesi ornegi
+
 giriş = """
 (1) topla
 (2) çıkar
