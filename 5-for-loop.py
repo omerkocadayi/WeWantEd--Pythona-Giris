@@ -1,19 +1,17 @@
-# in kelimesi İngilizcede ‘içinde’ anlamına geliyor.
-# Dolayısıyla for falanca in filanca
-# yazdığımızda aslında şöyle bir şey demiş oluyoruz:
-# filanca içinde falanca adını verdiğimiz herbir öğe için...
+# for dongusu baslangıc ornekleri
 
 cumle = "We wanted Python"
 
 for harf in cumle:
     print (harf)
-
 print("\n---------------------------------------\n")
+
+
 
 for i in range(0,10,2):                             # EKSİLTMEYİ DE GOSTER     range(10,0,-1)
     print (i)
-
 print("\n---------------------------------------\n")
+
 
 
 i=1
@@ -22,8 +20,9 @@ for x in range(1, 11):
         print("{} x {} = {}\t" .format(x, y, x * y))
 
     print("\n")
-
 print("\n---------------------------------------\n")
+
+
 
 # ASAL SAYI BULMA
 
@@ -37,9 +36,10 @@ for i in range(2,(sayi+1)//2):
 
 if(bolundu == 0):
     print ("Bu sayi asaldir !!")
-
-
 print("\n---------------------------------------\n")
+
+
+
 
 # ILK N ADET FIBONACCI SAYISINI YAZDIRMA
 
