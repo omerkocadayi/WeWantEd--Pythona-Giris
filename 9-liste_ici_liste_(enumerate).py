@@ -6,9 +6,7 @@ for yiyecek in yiyecekler:
 
 print ("\n")
 
-
 yiyecekler2 = [["elma", "armut"], ["portakal", "limon"], ["nohut", "barbunya"], 1]
-
 
 for yiyecek in yiyecekler2:
     print (yiyecek)
