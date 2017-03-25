@@ -1,12 +1,13 @@
+# while dongusu baslangıc ornekleri
+
 counter = 0
 while counter < 5:
-   print ("%s is  less than 5" % counter)
+   print ("%s 5ten kucuktur" % counter)
    counter = counter + 1
 
-print ("{} is not less than 5" .format(counter))
-
-
+print ("{} 5ten kucuk degildir" .format(counter))
 print("\n---------------------------------------\n")
+
 
 
 print ("Karekok bulucu")
@@ -20,10 +21,9 @@ while (secim == 'e'):
     secim = input("\nDevam etmek icin 'e' , cıkmak icin herhangi bir tusa bas : ")
 
 print("*** Cıkıs Yapıldı ***")
-
-
-
 print("\n---------------------------------------\n")
+
+
 
 while True:
     parola = input("parola belirleyin: ")
