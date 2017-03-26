@@ -26,5 +26,5 @@ meyveler.remove("elma")                             #.remove  ==>  parantezde be
 print (meyveler)
 
 
-print (meyveler.pop(len(meyveler) - 1))         #.pop     ==> sondaki elamani atar.
+print (meyveler.pop(len(meyveler) - 3))         #.pop     ==> listenin sondan 3. elemanini atar.
 print (meyveler)
