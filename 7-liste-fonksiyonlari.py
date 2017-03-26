@@ -22,7 +22,7 @@ meyveler.insert(1, "karpuz")                    #.insert  ==> (indis, 'eklenecek
 print (meyveler)
 
 
-meyveler.remove(1)                             #.remove  ==>  indis numarasina gore siler
+meyveler.remove("elma")                             #.remove  ==>  parantezde belirtilen elemanı siler
 print (meyveler)
 
 
