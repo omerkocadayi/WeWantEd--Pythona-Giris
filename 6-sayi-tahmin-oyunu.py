@@ -1,7 +1,7 @@
 import random
 sayi = random.randint(1,100)
 print ("Tahmin Oyununa Hos Geldiniz")
-sayac=1
+sayac=0
 
 while True:
     tahmin = int(input("Sayi Girin:"))
