@@ -4,9 +4,6 @@ meyveler = ["elma", "muz", 5, 5.8, True]
 print (meyveler)
 
 
-meyveler.remove(1)                             #.remove  ==>  indis numarasina gore siler
-print (meyveler)
-
 
 meyveler.append("visne")                        #.append  ==> listenin sonuna belirtilen elemanı ekler.
 print (meyveler)
@@ -22,6 +19,10 @@ print ("\n")
 
 
 meyveler.insert(1, "karpuz")                    #.insert  ==> (indis, 'eklenecek eleman')
+print (meyveler)
+
+
+meyveler.remove(1)                             #.remove  ==>  indis numarasina gore siler
 print (meyveler)
 
 
