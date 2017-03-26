@@ -14,5 +14,5 @@ for yiyecek in yiyecekler2:
 print ("\n")
 
 for i, yiyecek in enumerate(yiyecekler):
-    for j, item in enumerate(yiyecek):
-        print (item, i, j)
+    for j, yiy in enumerate(yiyecek):
+        print (yiy, i, j)
