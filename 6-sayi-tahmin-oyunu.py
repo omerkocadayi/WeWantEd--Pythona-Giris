@@ -2,9 +2,8 @@ import random
 sayi = random.randint(1,100)
 print ("Tahmin Oyununa Hos Geldiniz")
 sayac=1
-tahmin=0
 
-while tahmin != sayi:
+while True:
     tahmin = int(input("Sayi Girin:"))
 
     if tahmin == sayi:
