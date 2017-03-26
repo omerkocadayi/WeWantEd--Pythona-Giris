@@ -5,15 +5,14 @@ sayac=1
 
 while True:
     tahmin = int(input("Sayi Girin:"))
-
+    sayac += 1
+    
     if tahmin == sayi:
         print ("\nTebrikler {} denemede bildiniz!" .format(sayac))
         break
 
-    if tahmin < sayi:
+    elif tahmin < sayi:
         print ("Daha Buyuk Bir Sayi Girin")
-        sayac += 1
 
-    if tahmin > sayi:
+    else:
         print ("Daha Kucuk Bir Sayi Girin")
-        sayac += 1
