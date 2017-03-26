@@ -8,8 +8,9 @@ print("\n---------------------------------------\n")
 
 
 
-for i in range(0,10,2):                             # EKSİLTMEYİ DE GOSTER     range(10,0,-1)
+for i in range(0,10,2):                             
     print (i)
+    
 print("\n---------------------------------------\n")
 
 
