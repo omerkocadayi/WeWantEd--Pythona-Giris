@@ -6,4 +6,4 @@ for i in range(1,101):
     toplam += i
     karetoplami += i**2
 
-print("Farklari = {}".format(toplam**2-karetoplami))
+print("Farklari = {}".format(toplam**2 - karetoplami))
