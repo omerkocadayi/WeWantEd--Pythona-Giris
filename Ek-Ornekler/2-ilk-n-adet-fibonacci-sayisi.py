@@ -1,4 +1,4 @@
-# ILK N ADET FIBONACCI SAYISINI YAZDIRMA
+#ILK N ADET FIBONACCI SAYISINI YAZDIRMA
 
 sayi = int(input('Bir sayi giriniz : '))
 print("Fibonacci sayi dizisinin ilk {} sayisi" .format(sayi))
