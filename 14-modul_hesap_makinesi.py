@@ -1,4 +1,4 @@
-from 15(ek)-fonksiyonda-lambda-hesap-mak. import *
+from 14-(ek)-fonksiyonda-lambda-hesap-mak. import *
 
 giriş = """
 (1) topla
