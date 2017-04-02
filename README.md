@@ -1,6 +1,6 @@
 # WeWantEd---Pythona-Giris
 
-Karabük Üniversitesi WeWantEd (We Wanted Education) eğitim projesi altında,
+Karabük Üniversitesi WeWantEd (We Want Education) eğitim projesi altında,
 verilen eğitimlerden biri olan
 'Python ile Programlamaya Giriş' ders içeriği.
 
