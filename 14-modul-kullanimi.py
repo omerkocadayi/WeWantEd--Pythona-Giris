@@ -1,4 +1,4 @@
-from lambbda import *
+from fonksiyondalambda import *
 
 
 
