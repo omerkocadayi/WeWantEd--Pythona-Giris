@@ -109,3 +109,5 @@ dosya.truncate()
 dosya.mode                 // bu nitelik dosyanin hangi kipte acildigini soyler.
 dosya.name                 // bu nitelik txt dosyasinin ismini gosterir.
 dosya.encoding             // bu nitelik dosyamizin hangi dil kodlamasi ile kodlandigini soyler.
+
+"""
