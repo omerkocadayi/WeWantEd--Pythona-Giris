@@ -1,5 +1,5 @@
 print ("\nSelam Dünya")
-print ("Selam WeWantEd\n")
+print ("Selam GlowSec\n")
 
 
 print ('%r %r %r %r' % (1, 2 , 3 , 4))
