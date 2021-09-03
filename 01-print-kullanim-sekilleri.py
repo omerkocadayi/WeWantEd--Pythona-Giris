@@ -6,23 +6,23 @@ print ('%r %r %r %r' % (1, 2 , 3 , 4))
 print ('%r %r %r %r' % ("one", "two", "three", "four"))
 
 
-print ("\n\nWeWanted \n"
-    "Eğitimlerine \n"
+print ("\n\nGlowSec \n"
+    "Forumuna \n"
     "Hoşgeldiniz\n")
 
 
-print ("Karabük" + " Üniversitesi" + " Mühendislik" + " Fakültesi\n")
-print ("Karabük\t" + "Üniversitesi\t\t" + " Mühendislik\t\t\t" + " Fakültesi")
+print ("Glow" + " Security" + " Siber" + " Güvenlik\n")
+print ("Glow\t" + "Security\t\t" + " Siber\t\t\t" + " Güvenlik")
 
 
 print ("""
-WeWantEd
+GlowSec
 Python
-Dersleri
+Forum
 """)
 
 print ('''
-WeWantEd
+GlowSec
 Python
-Dersleri
+Forum
 ''')
